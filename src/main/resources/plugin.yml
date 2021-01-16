@@ -1,0 +1,9 @@
+name: PotionMathEffects
+version: ${project.version}
+main: de.marvinleiers.potionmatheffects.PotionMathEffects
+api-version: 1.16
+authors: [ Marvin_Leiers, Marvin2k0 ]
+website: https://www.marvinleiers.de
+
+commands:
+  math:
